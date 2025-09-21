@@ -26,6 +26,14 @@
 
 ---
 
+### **Crapsee (Multiplayer Craps Game)**  
+- Cross-platform: Browser, iOS, Android, macOS, Windows  
+- Real-time multiplayer using Unity + Go + WebSockets + Redis  
+- **Role:** Core gameplay + backend integration  
+- [🌐 Live Demo](https://crapsee.live)  
+
+---
+
 ### **ASMR Crush**  
 - Google Play: 1M+ downloads, ~3.5★ rating (900+ reviews) :contentReference[oaicite:0]{index=0}  
 - iOS: 57 ratings, ~3.8★ (smaller scale on iOS) :contentReference[oaicite:1]{index=1}  
