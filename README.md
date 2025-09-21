@@ -50,16 +50,16 @@ Delivered multiple high-engagement mobile games with millions of downloads, incl
 
 - **Shark Attack – Simulator (iOS):** Achieved over 10k reviews (4.45★) and consistently updated (latest March 2025) across the App Store.  
 - **Jurassic Sniper 3D (iOS):** Released in October 2020, this action-packed shooter earned over 12k ratings with an impressive 4.61★ average (based on AppBrain).  
-- Plus similar hyper-casual prototypes such as *Police vs Thief 3D*, *Car Evolution 3D*, *Fishing Survival*, and *Dragon Forest* — with internal analytics showing a combined reach of millions of downloads.  
+- Plus similar hyper-casual prototypes such as *Police vs Thief 3D*, *Super Car 3D*, *Shark Attack 3D*, and *Dragon Forest* — with internal analytics showing a combined reach of millions of downloads.  
 
 ---
 
 ## 🎲 Other Games  
 
 - **Police vs Thief 3D** – [App Store](https://apps.apple.com/us/app/police-vs-thief-3d-car-race/id1542502766)  
-- **Car Evolution 3D** – [Play Store](https://play.google.com/store/apps/details?id=com.funvai.supercop)  
-- **Fishing Survival** – [Play Store](https://play.google.com/store/apps/details?id=com.funvai.fishingsurvival)  
-- **Dragon Forest** – [Play Store](https://play.google.com/store/apps/details?id=com.funvai.tapfire&hl=en&gl=US)  
+- **Super Car 3D** – [App Store](https://apps.apple.com/mx/app/super-car-3d/id1484654087)  
+- **Shark Attack 3D** – [APKPure](https://apkpure.com/shark-attack-3d/com.fpg.sharkslap)  
+- **Dragon Forest** – [APKPure](https://apkpure.com/dragon-forest/com.funvai.tapfire)  
 - **Creep (Slither.io-like multiplayer WebGL)** – [Play Online](https://minhazabtahi.itch.io/creep)  
 
 ---
