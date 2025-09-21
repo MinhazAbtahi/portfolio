@@ -2,6 +2,8 @@
 
 **7+ years experience | Unity, C#, Multiplayer Systems, Backend Integration**  
 
+🌐 **[View Portfolio Website](https://minhazabtahi.github.io/portfolio/)** | 💻 **[GitHub Profile](https://github.com/MinhazAbtahi)**
+
 ---
 
 ### 🎮 About Me  
