@@ -30,7 +30,7 @@
 - Cross-platform: Browser, iOS, Android, macOS, Windows  
 - Real-time multiplayer using Unity + Go + WebSockets + Redis  
 - **Role:** Core gameplay + backend integration  
-- [🌐 Live Demo](https://crapsee.live)  
+- [🌐 Crapsee Live](https://crapsee.live)  
 
 ---
 
